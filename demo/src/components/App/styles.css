@@ -1,0 +1,14 @@
+.row {
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+}
+
+.mh {
+  background-color: rgba(255, 0, 0, 0.126);
+}
+
+img {
+  /* height: auto; */
+  /* width: 100%; */
+}

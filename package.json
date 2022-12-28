@@ -1,0 +1,23 @@
+{
+  "name": "react-match-height",
+  "version": "1.0.0",
+  "description": "Match height for React components.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincenzorm117/react-match-height.git"
+  },
+  "keywords": [
+    "react",
+    "match",
+    "height"
+  ],
+  "author": "Vincenzo Marconi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincenzorm117/react-match-height/issues"
+  },
+  "homepage": "https://github.com/vincenzorm117/react-match-height#readme"
+}
